@@ -1,2 +1,2 @@
-# maze
+# MAZE
 MAZE
