@@ -1375,7 +1375,7 @@ if (nHeight < 11) {
 	nSubsidy = 100000 * COIN;
 }
 else {
-	nSubsidy = 0 * COIN;
+	nSubsidy = 4 * COIN;
 }
 
 return nSubsidy + nFees;
